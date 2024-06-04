@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentForm</string>
+    <string-array name="android_dropdown_arrays">
+        <item>Pilih Item</item>
+        <item>Sistem Informasi</item>
+        <item>Desain Komunikasi Visual</item>
+        <item>Teknik Informatika</item>
+    </string-array>
+</resources>
